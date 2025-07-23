@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class CheckArrAscSort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int size = 0;
+        int size;
 
         while (true) {
-            System.out.println("");
+            System.out.println();
             System.out.println("Enter the size of the array (positive integer): ");
             try {
                 size = Integer.parseInt(sc.nextLine());
@@ -23,7 +23,7 @@ public class CheckArrAscSort {
         int[] nums = new int[size];
 
         while (true) {
-            System.out.println("");
+            System.out.println();
             System.out.println("Enter the values of the array seperated by spaces:");
             String[] input = sc.nextLine().split(" ");
             if (input.length != size) {
@@ -38,7 +38,7 @@ public class CheckArrAscSort {
                 break;
             } catch (NumberFormatException e) {
                 System.out.println("Invalid input. Please enter integers only.");
-                System.out.println("");
+                System.out.println();
             }
         }
 
@@ -49,7 +49,7 @@ public class CheckArrAscSort {
                 break;
             }
         }
-        System.out.println("");
+        System.out.println();
         System.out.println(isSorted ? "True" : "False");
     }
 }
