@@ -13,4 +13,10 @@ public class StringReversingMet2 {
         }
         return sb.toString();
     }
+
+    public static void main(String[] args) {
+    String original = "I'm going to go to school today morning.";
+    String reversed = reverseStringUsingForLoop(original);
+    System.out.println("Original: \"" + original + "\", Reversed: \"" + reversed + "\"");
+    }
 }
