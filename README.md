@@ -5,28 +5,29 @@ This repository contains home tasks and exercises for Java Core Part 1, focusing
 ## Project Structure 📂
 
 ```
-tasks/
-├── task_1/
-│   ├── CheckArrAscSort.class
-│   └── CheckArrAscSort.java
-├── task_2/
-│   ├── StringReversingMet1.class
-│   ├── StringReversingMet1.java
-│   ├── StringReversingMet2.class
-│   ├── StringReversingMet2.java
-│   ├── StringReversingMet3.class
-│   └── StringReversingMet3.java
-├── task_3/
-│   ├── IdentitiesSwap.java
-│   ├── MakingChanges.class
-│   └── Person.class
-└── task_4/
-    ├── Account.class
-    ├── AccountService.class
-    ├── AccountService.java
-    ├── AccountServiceImpl.class
-    ├── Main.class
-    └── User.class
+Java-Core-Part-1/
+    tasks/
+    ├── task_1/
+    │   ├── CheckArrAscSort.class
+    │   └── CheckArrAscSort.java
+    ├── task_2/
+    │   ├── StringReversingMet1.class
+    │   ├── StringReversingMet1.java
+    │   ├── StringReversingMet2.class
+    │   ├── StringReversingMet2.java
+    │   ├── StringReversingMet3.class
+    │   └── StringReversingMet3.java
+    ├── task_3/
+    │   ├── IdentitiesSwap.java
+    │   ├── MakingChanges.class
+    │   └── Person.class
+    └── task_4/
+        ├── Account.class
+        ├── AccountService.class
+        ├── AccountService.java
+        ├── AccountServiceImpl.class
+        ├── Main.class
+        └── User.class
 ```
 
 ## Home Tasks 📝
