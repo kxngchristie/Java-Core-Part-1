@@ -1,6 +1,6 @@
 # Java-Core-Part-1 📚
 
-This repository contains home tasks and exercises for Java Core Part 1, focusing on fundamental Java concepts including array operations, string manipulation, and object-oriented programming. 🎯
+This repository contains home tasks and exercises for Java Core Part 1, focusing on fundamental Java concepts, including array operations, string manipulation, and object-oriented programming. 🎯
 
 ## Project Structure 📂
 
@@ -96,16 +96,16 @@ Tasks:
    - 💼 Service layer architecture
    - 👤 User management
    - 💰 Account operations
+  
+## Requirements ⚙️
+
+- ☕ Java JDK 8 or higher
+- 💻 Any Java IDE (IntelliJ IDEA recommended)
 
 ## Getting Started 🏁
 
 1. 📥 Clone the repository
 2. 📂 Navigate to the specific package you want to explore
 3. ▶️ Compile and run the Java files to see the demonstrations
-
-## Requirements ⚙️
-
-- ☕ Java JDK 8 or higher
-- 💻 Any Java IDE (IntelliJ IDEA, Eclipse, VS Code, etc.)
 
 Happy Coding! 💻
