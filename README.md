@@ -6,7 +6,7 @@ This repository contains home tasks and exercises for Java Core Part 1, focusing
 
 ```
 Java-Core-Part-1/
-    tasks/
+└── tasks/  
     ├── task_1/
     │   ├── CheckArrAscSort.class
     │   └── CheckArrAscSort.java
