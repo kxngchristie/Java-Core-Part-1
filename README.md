@@ -29,7 +29,7 @@ tasks/
     └── User.class
 ```
 
-### Home Tasks 📝
+## Home Tasks 📝
 
 #### Task 1: Array Operations (`tasks/task_1/`)
 Files:
@@ -40,7 +40,7 @@ Tasks:
 - 🔍 Algorithm for checking sorted arrays
 - ⚡ Efficient array traversal and comparison
 
---
+---
 
 #### Task 2: String Manipulation (`tasks/task_2/`)
 Files:
@@ -53,7 +53,7 @@ Tasks:
 - 📝 String manipulation techniques
 - 🎯 Performance comparison of different methods
 
---
+---
 
 #### Task 3: Object-Oriented Programming (`tasks/task_3/`)
 Files:
@@ -65,7 +65,7 @@ Tasks:
 - 🔄 Identity swapping between objects
 - 🎯 Object state manipulation
 
---
+---
 
 #### Task 4: Banking System Implementation (`tasks/task_4/`)
 Files:
